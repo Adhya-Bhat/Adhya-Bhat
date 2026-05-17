@@ -70,6 +70,6 @@ MATLAB-based study and simulation of electromagnetic interference effects.
 - Real-time autonomous navigation
 ---
 ## Connect With Me
-- GitHub: https://github.com/Adhya-Bhat
+
 - LinkedIn: https://www.linkedin.com/in/adhya-bhat-m-478614331/
 - Email: adhya.bhat@gmail.com
