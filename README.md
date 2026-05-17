@@ -39,11 +39,11 @@ MATLAB-based study and simulation of electromagnetic interference effects.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adhya-Bhat&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adhya-Bhat&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhya-Bhat&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhya-Bhat&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 ---
 
