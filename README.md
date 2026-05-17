@@ -7,11 +7,11 @@ Engineering student passionate about robotics, autonomous systems, embedded elec
 
 ## Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge)
@@ -36,12 +36,15 @@ MATLAB-based study and simulation of electromagnetic interference effects.
 ---
 
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adhya-Bhat&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adhya-Bhat&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhya-Bhat&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhya-Bhat&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 ---
 
 ## Currently Exploring
@@ -52,14 +55,14 @@ MATLAB-based study and simulation of electromagnetic interference effects.
 - IoT Systems
 
 ---
-## 👯 I’m looking to collaborate on
+##  I’m looking to collaborate on
 
 - Robotics projects
 - IoT and embedded systems
 - Autonomous drone development
 - Hackathons and research projects
 --- 
-## 🤔 I’m looking for help with
+##  I’m looking for help with
 
 - Advanced robotics algorithms
 - Control Systems Tuning
