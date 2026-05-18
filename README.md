@@ -30,6 +30,9 @@ A cute Self Balancing Robot
 ### Gesture-Controlled-Bicycle-Indicator-Gloves
 Gesture-based smart bicycle indicators.
 
+### SHM - Structural Health Monitoring System
+An IOT dashboard for monitoring structural difficulties of bridges and dams
+
 ### Electromagnetic-Interference-on-Pacemakers
 MATLAB-based study and simulation of electromagnetic interference effects.
 
